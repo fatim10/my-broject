@@ -1,1 +1,2 @@
-# my-broject
+# my-project
+#Project Notes
